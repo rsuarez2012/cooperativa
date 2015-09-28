@@ -1,0 +1,2 @@
+<h2>Misión y Visión</h2>
+<h4><p align="justify">Su mision cumplir con las exigencias de los clientes en cuanto al traslado de materiales con una Vision organizativa en el proceso de registro de datos sobre el trabajo diarioque se realiza para mantener organizados los datos y asi controlar los procesos que se llevan acabo diariamente para asi garantizar el exito de la cooperativa.</p></h4>

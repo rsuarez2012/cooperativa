@@ -1,0 +1,1 @@
+<?php echo $tabulador['Tabulador']['costo'] ?>
